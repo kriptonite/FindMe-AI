@@ -1,0 +1,6 @@
+{
+  "name": "FindMe AI — Human Review Console",
+  "description": "FindMe AI: Photorealistic 16:9 cinematic product film ('See. Report. Connect. Find.'), CAD triage console, Field Response mobile terminal, and Citizen Sighting app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
